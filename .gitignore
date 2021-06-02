@@ -38,3 +38,4 @@ htmlcov
 # setuptools noise
 .eggs
 *.egg-info
+root_key
